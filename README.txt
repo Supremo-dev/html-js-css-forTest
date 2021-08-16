@@ -1,0 +1,1 @@
+Open it with VSCODE and install Live Server
